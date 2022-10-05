@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sir-waqas
 - 👀 I’m interested in Learning & Teaching technology
-- 🌱 I’m currently learning Laravel Ecosystem
+- 🌱 I’m providing high end SME solutions
 - 💞️ I’m looking to collaborate on +923008299449
 - 📫 How to reach me waqas.mabsapps@gmail.com
 
